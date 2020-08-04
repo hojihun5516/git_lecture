@@ -4,17 +4,21 @@
 
 -----
 
-0. [리눅스 계열 명령어](#0.-리눅스계열-명령어-:art:)
-   - ls
-   - cd
-   - mkdir
-   - vim
+[0. 리눅스 계열 명령어](#0.-리눅스계열-명령어-:art:)
 
-1. Git과 GitHub의 차이
-2. Git 알아보기
-   - Git은 왜 만들어졌는가?
-   - Git은 왜 쓰는가?
-3. Git 써보기
+- ls
+- cd
+- mkdir
+- vim
+
+[1.Git과 GitHub의 차이]()
+
+- Git 알아보기
+
+- Git은 왜 만들어졌는가?
+- Git은 왜 쓰는가?
+
+1. Git 써보기
    - Git 설치 (Bash 깔림)
    - Git remote
    - Git add
@@ -25,7 +29,7 @@
    - Git ignore
    - Git checkout {branch}
    - Git merge
-4. GitHub
+2. GitHub
    - GitHub는 뭔가요?
    - Git clone
    - Git push
